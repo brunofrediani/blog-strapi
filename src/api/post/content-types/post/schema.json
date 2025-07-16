@@ -42,7 +42,7 @@
     "category": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::categorie.categorie",
+      "target": "api::category.category",
       "inversedBy": "posts"
     }
   }
